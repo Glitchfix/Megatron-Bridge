@@ -10,6 +10,7 @@ and verification steps.
 :maxdepth: 1
 
 skills/build-and-dependency/SKILL
+skills/bump-dependency/SKILL
 skills/testing/SKILL
 skills/cicd/SKILL
 skills/mlm-bridge-training/SKILL
@@ -25,6 +26,8 @@ skills/adding-model-support/llm-patterns
 skills/adding-model-support/vlm-patterns
 skills/adding-model-support/recipe-patterns
 skills/adding-model-support/tests-and-examples
+skills/verl-e2e-testing/SKILL
+skills/nemo-rl-e2e-testing/SKILL
 ```
 
 ```{toctree}
